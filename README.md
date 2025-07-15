@@ -68,11 +68,11 @@ Below are the provided images for use in your project:
 
 ### Menu/Promotional Images
 
-![img1](restaurant-frontend/public/img1.png)
-![img2](restaurant-frontend/public/img2.png)
-![img3](restaurant-frontend/public/img3.png)
-![img4](restaurant-frontend/public/img4.png)
-![img5](restaurant-frontend/public/img5.png)
+![img1](Resturant_Project/Media/img1.png)
+![img2](Resturant_Project/Media/img2.png)
+![img3](Resturant_Project/Media/img3.png)
+![img4](Resturant_Project/Media/img4.png)
+![img5](Resturant_Project/Media/img5.png)
 
 > _If you want these images to show up on GitHub or other platforms, make sure the relative path is correct or copy the images to a folder tracked by git._
 
